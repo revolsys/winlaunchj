@@ -1,0 +1,8 @@
+
+#include "windows.h"
+
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+
+#ifndef CONSOLE
+1 ICON "../icon/WinRun4J.ico"
+#endif
